@@ -122,3 +122,4 @@ Different ways to communicate insights:
 - Clean data is essential  
 - Storytelling improves impact  
 - Using multiple tools gives better results  
+updayed by prajwal
