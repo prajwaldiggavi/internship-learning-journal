@@ -1,10 +1,10 @@
 # Internship Learning Journal  
-**Name:** Rahul S Math  
-**USN:** 2BL22CI035
-**GitHub Username:** rahul-math
-**Department:** CSE-AIML  
-**Internship Start Date:** 03-02-2026
 
+**Name:** Prajwal D  
+**USN:** 2BL22IS026  
+**GitHub Username:** prajwaldiggavi  
+**Department:** ISE  
+**Internship Start Date:** 03-02-2026
 ---
 
 ## 📌 Objective
