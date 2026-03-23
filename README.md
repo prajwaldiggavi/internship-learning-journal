@@ -179,6 +179,6 @@ Overall, Week 7 emphasized that effective data work is not just about analysis, 
 | Week 4 | Web scraping, API data collection, PDF extraction, caching, data structuring (JSON/CSV)                  |
 | Week 5 | Data cleaning, Excel & OpenRefine usage, CLI data processing, API handling, media processing             |
 | Week 6 | EDA, statistical analysis, Pandas & DuckDB, outlier handling, geospatial insights                         |
-| Week 7 | Data visualization, storytelling, heatmaps, network analysis, interactive and dynamic visual tools       |
+| Week 7 | Data visualization, storytelling, heatmaps, network analysis, interactive and dynamic tools      |
 
 ---
